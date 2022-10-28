@@ -1,0 +1,267 @@
+nav{
+    background-color: #7b2049;
+    color: white;
+}
+ .nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .links ul li{
+    display: inline;
+ }
+ .links ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 0 15px 0 15px;
+ }
+ .links{
+    margin-top: 15px;
+ }
+ .links i{
+    padding-right: 15px;
+ }
+ .logo{
+    background-image: url(../img/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 44px;
+ }
+ .home{
+    background-image: url(../img/bg-home.png);
+    background-size: contain;
+    height: 100vh;
+    color: #e904fa;
+ }
+ .home h1{
+    font-size: 80px;
+    padding-top: 230px;
+ }
+ .home h2{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 50px;
+ }
+ .home h2 span{
+    color: #e904fa;
+ }
+ .home .hireme{
+    background-color: #3c0338;
+    border-color: #3c0338;
+ }
+ .btn-outline-light:hover{
+    background-color: #e904fa;
+}
+ .about{
+    height: 933px;
+    padding-top: 40px;
+    color: #3c0338;
+ }
+
+
+ .picture{
+    background-image: url(../img/belamala.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90vh;
+    color: #e904fa;  
+ }
+ .description ul li{
+    font-size: 28px;
+    padding: 10px 0 43px 0;
+    list-style: none;
+ }
+ .description i{
+    color: #e904fa;
+    padding-right: 15px;
+ }
+.facts h1{
+    font-size: 40px;
+    margin-top: 30px;
+}
+.description li{
+    font-size: 26px;
+}
+.resume{
+    background-image: url(../img/bg-resume.png);
+    background-size: cover;
+    height: 90vh;
+    color: #e904fa;
+}
+.resume h1{
+    padding-top: 40px;
+    margin-left: 115px;
+    color: white;
+}
+.description1 h3{
+    margin-left: 65px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: white;
+}
+.description1 ul li{
+    margin-left: 10px;
+    font-size: 25px;
+    color: white;
+    list-style: none;
+}
+.description1 h4{
+    margin-left: 65px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: white;
+    margin-top: 70px;
+}
+.description1 li{
+    margin-left: 50px;
+    font-size: 25px;
+    color: white;
+    list-style: none;
+}
+.description2 h3{
+    color: white;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.description2 ul li{
+    color: white;
+    font-size: 25px;
+    margin-left: 80px;
+}
+.description2 h4{
+    color: white;
+    margin-top: 35px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.description2 li{
+    color: white;
+    font-size: 25px;
+    margin-left: 115px;
+    list-style: none;
+}
+.services{
+    background-image: url(../img/bg-services.png);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.services h1{
+    text-align: center;
+    padding-top: 40px;
+}
+.row{
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.picture1{
+    background-image: url('../img/logo-pic.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.picture1 li{
+    margin-top: 250px;
+    color: white;
+    font-size: 22px;
+    list-style: none;
+}
+.picture2{
+    background-image: url('../img/thumb-pic.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+    margin-left: 10px;
+    margin-top: 70px;
+
+}
+.picture2 li{
+    margin-top: 250px;
+    margin-left: -35px;
+    color: white;
+    font-size: 22px;
+    list-style: none;
+}
+.picture3{
+    background-image: url('../img/fb-pic.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 38vh;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+.picture3 li{
+    margin-top: 235px;
+    color: white;
+    font-size: 22px;
+    list-style: none;
+}
+.portfolio{
+    background-image: url(../img/bg-portfolio.png);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.portfolio h1{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.sample1{
+    background-image: url('../img/sample1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+
+}
+.sample2{
+    background-image: url('../img/sample2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+}
+.sample3{
+    background-image: url('../img/sample3.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+    margin-left: 355px;
+    margin-top: 20px;
+}
+.contact{
+    background-image: url(../img/bg-contact.png);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+.contact h1{
+    margin-left: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.contact ul li{
+    font-size: 30px;
+    padding-top: 30px;
+    margin-left: 80px;
+    list-style: none;
+}
+.contact i{
+    padding-right: 15px;
+    color: #e904fa;
+}
+.btnContact{
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    height: 50px;
+    width: 200px;
+    color: #ffffff;
+    font-size: 1.5em;
+    box-shadow: 0 10px 6px rgb(0 0 0 / 60%);
+    margin-left: 590px;
+    margin-top: 40px;
+}
